@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T00:49:51 CST" name="Default suite" finished-at="2021-11-21T00:49:58 CST" duration-ms="7528">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T00:49:51 CST" name="Default test" finished-at="2021-11-21T00:49:58 CST" duration-ms="7528">
+      <class name="test.formTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:51 CST" name="setUp" finished-at="2021-11-21T00:49:56 CST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="titleTest()[pri:1, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:56 CST" name="titleTest" description="Test if user can locate to correct page" finished-at="2021-11-21T00:49:56 CST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="inputTest()[pri:2, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:56 CST" name="inputTest" description="Test if user can type in input fields" finished-at="2021-11-21T00:49:57 CST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputTest -->
+        <test-method signature="submitTest()[pri:3, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:57 CST" name="submitTest" description="Test if user can submit form" finished-at="2021-11-21T00:49:58 CST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitTest -->
+        <test-method signature="resultTest()[pri:4, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:58 CST" name="resultTest" description="Test if user&#039;s inputs can be captured correctly" finished-at="2021-11-21T00:49:58 CST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultTest -->
+        <test-method signature="mapTest()[pri:5, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:58 CST" name="mapTest" description="Test if the map can show successfully" finished-at="2021-11-21T00:49:58 CST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.formTest@6574a52c]" started-at="2021-11-21T00:49:58 CST" name="end" finished-at="2021-11-21T00:49:58 CST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.formTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
