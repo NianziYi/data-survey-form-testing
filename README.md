@@ -11,7 +11,7 @@ Test cases:
 5. test if map can be displayed in result page
 
 Test result:
-
+![Alt text](testResult.png?raw=true "Test Result")
 
 # testingForm branch
 This branch contains the form which is designed for testing purpose (disable captcha)
